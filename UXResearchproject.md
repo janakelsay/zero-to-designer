@@ -18,3 +18,5 @@ ______________
 - It is day 2 on the project. Learned a lot. Thanks to [Figma Community](https://www.figma.com/community) I have a plugin for emojis, which begins to satisfy my curiousity about the usefulness of plugins. I was also able to get a couple templates to guide my project. 
 - Getting comfortable with Figma, making sense of layout, layers, pages, colors, duplicating, like all kinds of stuff, tbh.
 - I'm realizing I may need to make some changes on my portfolio site in order to include this project in a meaningful way when I present it in my application. Don't know what those changes are yet.
+- Here is a screenshot from an idea I was having about the presentation of my understanding of the product's user's journey. I don't like it, and don't think it works.
+<img width="878" alt="journeyswireframe" src="https://github.com/janakelsay/zero-to-designer/assets/96694416/7b7911b0-8508-4f94-b243-ad4a705e238f">
