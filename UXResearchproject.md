@@ -11,3 +11,10 @@ Today is an exciting day, things are happening. At [bitcoinerjobs.com](https://b
 <img width="1382" alt="researchnotes6 19" src="https://github.com/janakelsay/zero-to-designer/assets/96694416/351e7c62-136a-434e-92ee-0782031913d9">
 
 - So for the rest of the week, I'm going to work on collecting a useful file set that means something valuable to the people at Geyser, learning it all from zero on the internet.
+
+
+______________
+
+- It is day 2 on the project. Learned a lot. Thanks to [Figma Community](https://www.figma.com/community) I have a plugin for emojis, which begins to satisfy my curiousity about the usefulness of plugins. I was also able to get a couple templates to guide my project. 
+- Getting comfortable with Figma, making sense of layout, layers, pages, colors, duplicating, like all kinds of stuff, tbh.
+- I'm realizing I may need to make some changes on my portfolio site in order to include this project in a meaningful way when I present it in my application. Don't know what those changes are yet.
