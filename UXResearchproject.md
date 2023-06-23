@@ -27,3 +27,9 @@ Here we are on the third day, hello. Boy, I am enjoying this, really. I am getti
 <img width="920" alt="Screenshot3 55 14" src="https://github.com/janakelsay/zero-to-designer/assets/96694416/35b93e90-84d8-4e30-8114-0045605c02d4">
 - After today I got clearer on what I can present that's valuable with minimal data. I added in screenshots from the site and my notes on the experience of using it. I know what I need to finish it, and I like that it looks clean and simple. I think that's the whole goal of Figma.
 - With all that I'm learning, I'm excited to get back to Space Explorer next week to try out some new things, and fill in gaps on that idea.
+
+_______________
+
+It is day five. I made no report on day four! Yikes!
+- The research project for Geyser has reached its MVP, and wouldn't you know it, Figma allows shareable links. That is it's advantage over other design tools. [So here it is.](https://www.figma.com/file/lZuZA65LRqi1B3uRWMH6sE/UX-Research-for-Geyser?type=design&node-id=0%3A1&mode=design&t=T3E4clZwDB2dVmLj-1)
+- I really like how my vision became realized. I got to juice it up with my own flavor of creativity and flare, and I learned a heck of a lot.
