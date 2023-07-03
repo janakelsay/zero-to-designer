@@ -33,3 +33,9 @@ _______________
 It is day five. I made no report on day four! Yikes!
 - The research project for Geyser has reached its MVP, and wouldn't you know it, Figma allows shareable links. That is it's advantage over other design tools. [So here it is.](https://www.figma.com/file/lZuZA65LRqi1B3uRWMH6sE/UX-Research-for-Geyser?type=design&node-id=0%3A1&mode=design&t=T3E4clZwDB2dVmLj-1)
 - I really like how my vision became realized. I got to juice it up with my own flavor of creativity and flare, and I learned a heck of a lot.
+
+________________
+
+It is a new day. I am onto a new-ish project. I browsed [Bitcoin UX Research Tooklkit](https://bitcoinresearch.xyz) to learn more about research, and I'm very happy this resource exists to save me time from slogging through a bunch of copy on UX research that does not pertain to building on bitcoin. I shared feedback on this site via chat on discord, comment on repo, and a Google Form. 
+
+This week, I am going to see what happens when I attempt a competitive analysis. Building off of where I was going with research focused on Geyser, I am going to compare their user experience to the obvious competitor: GoFundMe. I am sure they have done this to some extent. I do not know if I will dredge up anything useful, but if anything, it's more experience with Figma formatting, research methods, and interpreting insights. 
