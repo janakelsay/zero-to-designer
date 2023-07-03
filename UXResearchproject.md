@@ -39,3 +39,7 @@ ________________
 It is a new day. I am onto a new-ish project. I browsed [Bitcoin UX Research Tooklkit](https://bitcoinresearch.xyz) to learn more about research, and I'm very happy this resource exists to save me time from slogging through a bunch of copy on UX research that does not pertain to building on bitcoin. I shared feedback on this site via chat on discord, comment on repo, and a Google Form. 
 
 This week, I am going to see what happens when I attempt a competitive analysis. Building off of where I was going with research focused on Geyser, I am going to compare their user experience to the obvious competitor: GoFundMe. I am sure they have done this to some extent. I do not know if I will dredge up anything useful, but if anything, it's more experience with Figma formatting, research methods, and interpreting insights. 
+
+<img width="472" alt="Screenshot 2023-07-03 at 5 38 52 PM" src="https://github.com/janakelsay/zero-to-designer/assets/96694416/1f2b4a03-4d19-419e-a0d2-b197ba0054d6">
+
+- here's the starting point for this analysis
