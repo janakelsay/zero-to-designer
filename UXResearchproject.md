@@ -43,3 +43,5 @@ This week, I am going to see what happens when I attempt a competitive analysis.
 <img width="472" alt="Screenshot 2023-07-03 at 5 38 52 PM" src="https://github.com/janakelsay/zero-to-designer/assets/96694416/1f2b4a03-4d19-419e-a0d2-b197ba0054d6">
 
 - here's the starting point for this analysis
+
+I have learned more about the scope of the research. [This video](https://www.youtube.com/watch?v=zGCRhd3r4fE) from CareerFoundry was really useful, directed well, and packed full of takeaway knowledge. It is actually quite funny to me how very deeply online the job of UX is, that I can get such a wealth of practical information on how to do it in various quality forms all over the internet. I used to write research papers which required me to carry around ten books, but I can get similar high level understanding from spending ten minutes on Youtube? Seems fake, not that I spell it out...
