@@ -1,0 +1,7 @@
+Trying to focus some of my energy into an article about the design community. Because I am able to attend a desing focused meetup, I had exposure to this space that I don't feel many others have, since there are few design-focused meetups. I want to share what I've been getting interested in and help others to see there are ways they can contribute to bitcoin projects in conjunction with writing code. I have only just begun this work which has involved sitting down with the meetup organizer. He suggested I take my questions to more designers to receive well-rounded, robust input. I made a first pass today on those questions, here they are:
+1. can you describe one practical skill and one personal attribute that makes a good designer?
+2. good design is made to feel simple, but is actually thoroughly considered, researched and restricted by limitations. what surprises you about designing for bitcoin products, it’s considerations, it’s innovations that research hasn’t caught up to, it’s restrictions?
+3. how closely do you feel bitcoin design should acclimate to already understood industry best practices? where is it obvious that bitcoin design has a new trail to blaze?
+4. what do you see happening in the bitcoin design community? do new people come in? people with good intentions yet no experience? people with too much experience and not enough bitcoin conviction? is there a wrestling with what bitcoin is vs. what designers know?
+
+will return to these next week and tweak
