@@ -45,3 +45,8 @@ This week, I am going to see what happens when I attempt a competitive analysis.
 - here's the starting point for this analysis
 
 I have learned more about the scope of the research. [This video](https://www.youtube.com/watch?v=zGCRhd3r4fE) from CareerFoundry was really useful, directed well, and packed full of takeaway knowledge. It is actually quite funny to me how very deeply online the job of UX is, that I can get such a wealth of practical information on how to do it in various quality forms all over the internet. I used to write research papers which required me to carry around ten books, but I can get similar high level understanding from spending ten minutes on Youtube? Seems fake, now that I spell it out...
+
+_________________
+
+Progress on this research project is at a 20-30% completion. I have been diving into Geyser's user stories and making notes about the path those stories take me on across the site. The next step is to use the list of heuristics given to analyze decisions on the site and suggest improvements. I plan on working on this today.
+What is getting in my way is trying to make my workspace in Figma "look good." I keep dressing it up when I return to it. This is mostly because I do not know standardized practices, and much of my knowledge of how to use Figma is to dress things up. 
