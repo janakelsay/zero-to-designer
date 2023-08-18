@@ -50,3 +50,12 @@ _________________
 
 Progress on this research project is at a 20-30% completion. I have been diving into Geyser's user stories and making notes about the path those stories take me on across the site. The next step is to use the list of heuristics given to analyze decisions on the site and suggest improvements. I plan on working on this today.
 What is getting in my way is trying to make my workspace in Figma "look good." I keep dressing it up when I return to it. This is mostly because I do not know standardized practices, and much of my knowledge of how to use Figma is to dress things up. 
+
+________________
+
+Progression towards the interviews portion. This project has been very motivating, and I'm thankful for the help I've had along the way.
+The interview script has gone through several iterations, needed because my first round was not as clearly focused as I would have liked. The interations come from the collaborative efforts of the community. This aspect has been unexpected to me and delightful.
+
+Here's take aways:
+- when interviewing, keep the interviewee talking. Do not lead them to an answer; follow where they go. Take hints at where they're going from their body language.
+- keep notes well. Writing notes by hand will concrete the insights in your mind, which is most useful when you need to recall them later.
